@@ -1,2 +1,2 @@
-# appanimal
-Aplicativo para cadastro de animais em Fast-API
+# App Animal
+### Aplicativo para cadastro de animais em Fast-API
