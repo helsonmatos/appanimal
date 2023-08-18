@@ -13,6 +13,10 @@ async function carregarAnimais(){
     
 }
 
+function manipularFormulario(){
+    const form_animal = document.getElementById('form-animal')
+}
+
 function app(){
     console.log("app iniciado")
     carregarAnimais()
